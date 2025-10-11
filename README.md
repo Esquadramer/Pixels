@@ -46,7 +46,7 @@ Aqui eu irei mostrar todas minhas ideias para jogo em resolução pixelart, como
 
 ### Como Baixar e Contribuir?:
 
-Por ser um Online não precisa baixar, somente acessar
+Por ser Online não precisa baixar, somente acessar
 
 ### Tecnologias utilizadas:
 ### Linguagens de Programação
